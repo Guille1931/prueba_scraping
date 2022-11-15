@@ -1,0 +1,30 @@
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px grey;
+    padding: 20px;
+    margin-top:30px;
+    background-color: rgb(0, 102, 255); 
+    background-image: linear-gradient(rgb(226, 128, 237), yellow);
+    }    
+   h1{
+    text-align: center;
+    font-size: 3em;
+    animation-duration: 3s;
+    animation-name: slidein;
+   }
+   @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%
+    }  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+}
+#frase :hover{
+    color: red;   
+}
