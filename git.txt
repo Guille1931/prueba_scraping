@@ -1,0 +1,13 @@
+Las instrucciones ejecutadas desde la terminal del equipo donde esta el proyecto que queremos subir a github
+
+1º git init
+
+2º git add .
+
+3º git commit -m "first commit"
+
+4º git remote add origin https://github.com/Guille1931/prueba_scraping.git
+
+5º git push -u origin master
+
+Estas instrucciones tambien se pueden hacer desde el GITHUB DESKTOP

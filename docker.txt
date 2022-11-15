@@ -1,0 +1,7 @@
+Las instrucciones utilizadas son:
+
+1º Desde la consola del proyecto ejecuto la instruccion : docker buil -t uf1846_prova_practica
+
+2º A continuacion he abierto el Docker Desktop para ber si la imagen se creo correctamente
+
+3º Desde el Docker Desktop ejecuto con el run la imagen con resultado exitoso
